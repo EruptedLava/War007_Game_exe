@@ -1,6 +1,8 @@
 # war007
+========
+ THIS GAME MAY HURT YOUR FEELINGS ========
 
-War007 is game created in python using pygame module
+ War007 is game created in python using pygame module
 this game is created by [Eruptedlava / Sarthak Sharma](https://t.me/Eruptedlava)
 
 ## Installation
